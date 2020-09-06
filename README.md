@@ -1,5 +1,5 @@
 ### Hello, World 👋
-#### 💻 [Site](https://devmarcosz.github.io)
+#### 💻 [Site](https://devmarcosz.github.io/home)
 #### 🔭 Atualmente sou estagiario hehe
 #### 🌱 Estou estudando um pouco sobre desenvolvimento web
 #### 💬 Se quiser falar comigo por algum motivo:
