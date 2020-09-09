@@ -3,7 +3,6 @@
 #### 🔭 Atualmente sou estagiario hehe
 #### 🌱 Estou estudando um pouco sobre desenvolvimento web
 #### 💬 Se quiser falar comigo por algum motivo:
-- [Facebook](https://web.facebook.com/Nasadouglas/)
 - [Instagram](https://instagram.com/ounasah)
 - [Twitter](https://twitter.com/briklynasa)
 
