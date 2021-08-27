@@ -10,12 +10,6 @@
 
 ---
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/dsz7zwwqrdq7mq8fv2w7se6de)
-
----
-
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=devmarcosz&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
