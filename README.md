@@ -1,20 +1,11 @@
-
-
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" />
-
 ## I'm a Computer Science Student  
 
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies.
 
-
----
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=devmarcosz&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
 <br />
 
----
 
 ### Languages and Tools 🛠
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
